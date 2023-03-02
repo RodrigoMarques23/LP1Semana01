@@ -15,6 +15,8 @@ namespace TiposVarios
             char emo3 = '\u1F49';
             float real1 = 2.42f;
             double real2 = 5.243;
+            bool f = false;
+            bool t = true;
 
             Console.WriteLine(a);
             Console.WriteLine(b);
@@ -25,6 +27,8 @@ namespace TiposVarios
             Console.WriteLine(emo3);
             Console.WriteLine(real1);
             Console.WriteLine(real2);
+            Console.WriteLine(f);
+            Console.WriteLine(t);
 
         }
     }
