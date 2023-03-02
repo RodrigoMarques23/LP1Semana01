@@ -6,11 +6,8 @@ namespace OlaMundo
     {
         static void Main(string[] args)
         {
-            foreach(string arg in args)
-            {
-                Console.WriteLine("Arg is:");
-                Console.WriteLine(arg);
-            }
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Bye, World!");
         }
     }
 }
